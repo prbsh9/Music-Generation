@@ -1,0 +1,1 @@
+Just explored with the music generation using RNN. Simple and great. We used Jazz music for training.
